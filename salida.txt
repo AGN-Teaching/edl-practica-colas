@@ -1,0 +1,212 @@
+***** Se compran acciones (Día: 3):
+Compra. Día: 1; Cantidad: 20; Costo: $30; Disponibles: 20
+
+Acciones en el sistema: 
+Compra. Día: 1; Cantidad: 20; Costo: $30; Disponibles: 20
+
+Acciones vendidas: 
+	No se han vendido acciones.
+
+GANANCIA TOTAL: $0
+
+
+***** Se compran acciones (Día: 10):
+Compra. Día: 2; Cantidad: 40; Costo: $30; Disponibles: 40
+
+Acciones en el sistema: 
+Compra. Día: 1; Cantidad: 20; Costo: $30; Disponibles: 20
+Compra. Día: 2; Cantidad: 40; Costo: $30; Disponibles: 40
+
+Acciones vendidas: 
+	No se han vendido acciones.
+
+GANANCIA TOTAL: $0
+
+
+***** Se compran acciones (Día: 15):
+Compra. Día: 3; Cantidad: 200; Costo: $40; Disponibles: 200
+
+Acciones en el sistema: 
+Compra. Día: 1; Cantidad: 20; Costo: $30; Disponibles: 20
+Compra. Día: 2; Cantidad: 40; Costo: $30; Disponibles: 40
+Compra. Día: 3; Cantidad: 200; Costo: $40; Disponibles: 200
+
+Acciones vendidas: 
+	No se han vendido acciones.
+
+GANANCIA TOTAL: $0
+
+
+***** Se venden acciones (Día: 20):
+Venta. Transacción: 4; Acciones: 20; Costo: $50; Ganancia: $400
+Venta. Transacción: 4; Acciones: 40; Costo: $50; Ganancia: $800
+Venta. Transacción: 4; Acciones: 40; Costo: $50; Ganancia: $400
+Ganancia de la transacción: $1600
+
+Acciones en el sistema: 
+Compra. Día: 3; Cantidad: 200; Costo: $40; Disponibles: 160
+
+Acciones vendidas: 
+Venta. Transacción: 4; Acciones: 20; Costo: $50; Ganancia: $400
+Venta. Transacción: 4; Acciones: 40; Costo: $50; Ganancia: $800
+Venta. Transacción: 4; Acciones: 40; Costo: $50; Ganancia: $400
+
+GANANCIA TOTAL: $1600
+
+
+***** Se compran acciones (Día: 48):
+Compra. Día: 5; Cantidad: 100; Costo: $40; Disponibles: 100
+
+Acciones en el sistema: 
+Compra. Día: 3; Cantidad: 200; Costo: $40; Disponibles: 160
+Compra. Día: 5; Cantidad: 100; Costo: $40; Disponibles: 100
+
+Acciones vendidas: 
+Venta. Transacción: 4; Acciones: 20; Costo: $50; Ganancia: $400
+Venta. Transacción: 4; Acciones: 40; Costo: $50; Ganancia: $800
+Venta. Transacción: 4; Acciones: 40; Costo: $50; Ganancia: $400
+
+GANANCIA TOTAL: $1600
+
+
+***** Se venden acciones (Día: 50):
+Venta. Transacción: 6; Acciones: 160; Costo: $60; Ganancia: $3200
+Venta. Transacción: 6; Acciones: 40; Costo: $60; Ganancia: $800
+Ganancia de la transacción: $4000
+
+Acciones en el sistema: 
+Compra. Día: 5; Cantidad: 100; Costo: $40; Disponibles: 60
+
+Acciones vendidas: 
+Venta. Transacción: 4; Acciones: 20; Costo: $50; Ganancia: $400
+Venta. Transacción: 4; Acciones: 40; Costo: $50; Ganancia: $800
+Venta. Transacción: 4; Acciones: 40; Costo: $50; Ganancia: $400
+Venta. Transacción: 6; Acciones: 160; Costo: $60; Ganancia: $3200
+Venta. Transacción: 6; Acciones: 40; Costo: $60; Ganancia: $800
+
+GANANCIA TOTAL: $5600
+
+
+***** Se compran acciones (Día: 66):
+Compra. Día: 7; Cantidad: 50; Costo: $50; Disponibles: 50
+
+Acciones en el sistema: 
+Compra. Día: 5; Cantidad: 100; Costo: $40; Disponibles: 60
+Compra. Día: 7; Cantidad: 50; Costo: $50; Disponibles: 50
+
+Acciones vendidas: 
+Venta. Transacción: 4; Acciones: 20; Costo: $50; Ganancia: $400
+Venta. Transacción: 4; Acciones: 40; Costo: $50; Ganancia: $800
+Venta. Transacción: 4; Acciones: 40; Costo: $50; Ganancia: $400
+Venta. Transacción: 6; Acciones: 160; Costo: $60; Ganancia: $3200
+Venta. Transacción: 6; Acciones: 40; Costo: $60; Ganancia: $800
+
+GANANCIA TOTAL: $5600
+
+
+***** Se compran acciones (Día: 73):
+Compra. Día: 8; Cantidad: 200; Costo: $40; Disponibles: 200
+
+Acciones en el sistema: 
+Compra. Día: 5; Cantidad: 100; Costo: $40; Disponibles: 60
+Compra. Día: 7; Cantidad: 50; Costo: $50; Disponibles: 50
+Compra. Día: 8; Cantidad: 200; Costo: $40; Disponibles: 200
+
+Acciones vendidas: 
+Venta. Transacción: 4; Acciones: 20; Costo: $50; Ganancia: $400
+Venta. Transacción: 4; Acciones: 40; Costo: $50; Ganancia: $800
+Venta. Transacción: 4; Acciones: 40; Costo: $50; Ganancia: $400
+Venta. Transacción: 6; Acciones: 160; Costo: $60; Ganancia: $3200
+Venta. Transacción: 6; Acciones: 40; Costo: $60; Ganancia: $800
+
+GANANCIA TOTAL: $5600
+
+
+***** Se venden acciones (Día: 82):
+Venta. Transacción: 9; Acciones: 60; Costo: $50; Ganancia: $600
+Venta. Transacción: 9; Acciones: 50; Costo: $50; Ganancia: $0
+Venta. Transacción: 9; Acciones: 90; Costo: $50; Ganancia: $900
+Ganancia de la transacción: $1500
+
+Acciones en el sistema: 
+Compra. Día: 8; Cantidad: 200; Costo: $40; Disponibles: 110
+
+Acciones vendidas: 
+Venta. Transacción: 4; Acciones: 20; Costo: $50; Ganancia: $400
+Venta. Transacción: 4; Acciones: 40; Costo: $50; Ganancia: $800
+Venta. Transacción: 4; Acciones: 40; Costo: $50; Ganancia: $400
+Venta. Transacción: 6; Acciones: 160; Costo: $60; Ganancia: $3200
+Venta. Transacción: 6; Acciones: 40; Costo: $60; Ganancia: $800
+Venta. Transacción: 9; Acciones: 60; Costo: $50; Ganancia: $600
+Venta. Transacción: 9; Acciones: 50; Costo: $50; Ganancia: $0
+Venta. Transacción: 9; Acciones: 90; Costo: $50; Ganancia: $900
+
+GANANCIA TOTAL: $7100
+
+
+***** Se venden acciones (Día: 88):
+Venta. Transacción: 10; Acciones: 100; Costo: $60; Ganancia: $2000
+Ganancia de la transacción: $2000
+
+Acciones en el sistema: 
+Compra. Día: 8; Cantidad: 200; Costo: $40; Disponibles: 10
+
+Acciones vendidas: 
+Venta. Transacción: 4; Acciones: 20; Costo: $50; Ganancia: $400
+Venta. Transacción: 4; Acciones: 40; Costo: $50; Ganancia: $800
+Venta. Transacción: 4; Acciones: 40; Costo: $50; Ganancia: $400
+Venta. Transacción: 6; Acciones: 160; Costo: $60; Ganancia: $3200
+Venta. Transacción: 6; Acciones: 40; Costo: $60; Ganancia: $800
+Venta. Transacción: 9; Acciones: 60; Costo: $50; Ganancia: $600
+Venta. Transacción: 9; Acciones: 50; Costo: $50; Ganancia: $0
+Venta. Transacción: 9; Acciones: 90; Costo: $50; Ganancia: $900
+Venta. Transacción: 10; Acciones: 100; Costo: $60; Ganancia: $2000
+
+GANANCIA TOTAL: $9100
+
+
+***** Se compran acciones (Día: 92):
+Compra. Día: 11; Cantidad: 40; Costo: $60; Disponibles: 40
+
+Acciones en el sistema: 
+Compra. Día: 8; Cantidad: 200; Costo: $40; Disponibles: 10
+Compra. Día: 11; Cantidad: 40; Costo: $60; Disponibles: 40
+
+Acciones vendidas: 
+Venta. Transacción: 4; Acciones: 20; Costo: $50; Ganancia: $400
+Venta. Transacción: 4; Acciones: 40; Costo: $50; Ganancia: $800
+Venta. Transacción: 4; Acciones: 40; Costo: $50; Ganancia: $400
+Venta. Transacción: 6; Acciones: 160; Costo: $60; Ganancia: $3200
+Venta. Transacción: 6; Acciones: 40; Costo: $60; Ganancia: $800
+Venta. Transacción: 9; Acciones: 60; Costo: $50; Ganancia: $600
+Venta. Transacción: 9; Acciones: 50; Costo: $50; Ganancia: $0
+Venta. Transacción: 9; Acciones: 90; Costo: $50; Ganancia: $900
+Venta. Transacción: 10; Acciones: 100; Costo: $60; Ganancia: $2000
+
+GANANCIA TOTAL: $9100
+
+
+***** Se venden acciones (Día: 99):
+Venta. Transacción: 12; Acciones: 10; Costo: $50; Ganancia: $100
+Venta. Transacción: 12; Acciones: 40; Costo: $50; Ganancia: -$400
+Ganancia de la transacción: -$300
+
+Acciones en el sistema: 
+	No hay acciones en el sistema.
+Acciones vendidas: 
+Venta. Transacción: 4; Acciones: 20; Costo: $50; Ganancia: $400
+Venta. Transacción: 4; Acciones: 40; Costo: $50; Ganancia: $800
+Venta. Transacción: 4; Acciones: 40; Costo: $50; Ganancia: $400
+Venta. Transacción: 6; Acciones: 160; Costo: $60; Ganancia: $3200
+Venta. Transacción: 6; Acciones: 40; Costo: $60; Ganancia: $800
+Venta. Transacción: 9; Acciones: 60; Costo: $50; Ganancia: $600
+Venta. Transacción: 9; Acciones: 50; Costo: $50; Ganancia: $0
+Venta. Transacción: 9; Acciones: 90; Costo: $50; Ganancia: $900
+Venta. Transacción: 10; Acciones: 100; Costo: $60; Ganancia: $2000
+Venta. Transacción: 12; Acciones: 10; Costo: $50; Ganancia: $100
+Venta. Transacción: 12; Acciones: 40; Costo: $50; Ganancia: -$400
+
+GANANCIA TOTAL: $8800
+
+
+Fin del período.
