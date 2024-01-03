@@ -1,7 +1,7 @@
 #include <iostream>
 
-#include "cola_.h"
-#include "sistema_.h"
+#include "cola.h"
+#include "sistema.h"
 
 using namespace std;
 
