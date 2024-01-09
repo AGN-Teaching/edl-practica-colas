@@ -5,7 +5,7 @@
 #include <sstream>
 #include <string>
 
-#include "cola_.h"
+#include "cola.h"
 
 
 /*
