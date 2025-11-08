@@ -4,9 +4,8 @@
 #include <sstream>
 #include <string>
 
-/*
+/**
  * Clase Nodo para su uso en colas.
- *
  */
 template <typename T>
 class Nodo {
@@ -24,9 +23,8 @@ Nodo<T>::Nodo() {
 
 
 
-/*
+/**
  * Clase Cola.
- *
  */
 template <typename T>
 class Cola {
@@ -37,7 +35,8 @@ public:
     bool dequeue();
     T* frente() const;
     bool esVacia() const;
-    int tamaño() const;
+    int getNumElementos() const;
+    std::string aTexto() const;
 
 private:
     Nodo<T>* primero;
@@ -48,8 +47,8 @@ private:
 };
 
 
-/*
- Constructor.
+/**
+ * Constructor.
  */
 template <typename T>
 Cola<T>::Cola() {
@@ -59,8 +58,8 @@ Cola<T>::Cola() {
 }
 
 
-/*
- Destructor.
+/**
+ * Destructor.
  */
 template <typename T>
 Cola<T>::~Cola() {
@@ -70,8 +69,8 @@ Cola<T>::~Cola() {
 }
 
 
-/*
- Enqueue.
+/**
+ * Inserta un elemento.
  */
 template <typename T>
 bool Cola<T>::enqueue(T* x) {
@@ -80,43 +79,43 @@ bool Cola<T>::enqueue(T* x) {
 }
 
 
-/*
- Dequeue.
+/**
+ * Elimina el elemento en el frente.
  */
 template <typename T>
 bool Cola<T>::dequeue() {
-    // implementar
     bool exito = false;
+    // implementar
     return exito;
 }
 
 
-/*
- Frente.
+/**
+ * Devuelve el elemento en el frente.
  */
 template <typename T>
 T* Cola<T>::frente() const {
-    // implementar
     T *elem;
+    // implementar
     return elem;
 }
 
 
-/*
- Es vacia.
+/**
+ * Verifica si es vacia.
  */
 template <typename T>
 bool Cola<T>::esVacia() const {
     // implementar
-    return true;
+    return false;
 }
 
 
-/*
- Tamaño.
+/**
+ * Devuelve el número de elementos.
  */
 template <typename T>
-int Cola<T>::tamaño() const {
+int Cola<T>::getNumElementos() const {
     return numElementos;
 }
 
@@ -138,4 +137,4 @@ std::ostream& operator<<(std::ostream &strm, const Cola<T> &q) {
 }
 
 
-#endif
+#endif // COLA_H
