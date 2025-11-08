@@ -1,5 +1,5 @@
-#ifndef ACCIONES_H
-#define ACCIONES_H
+#ifndef SISTEMA_H
+#define SISTEMA_H
 
 #include <iostream>
 #include <sstream>
@@ -8,9 +8,8 @@
 #include "cola.h"
 
 
-/*
+/**
  * Clase Compra.
- *
  */
 class Compra {
 public:
@@ -71,9 +70,10 @@ std::ostream& operator<<(std::ostream &strm, const Compra &c) {
 }
 
 
-/*
+
+
+/**
  * Clase Venta.
- *
  */
 class Venta {
 public:
@@ -127,15 +127,13 @@ std::ostream& operator<<(std::ostream &strm, const Venta &v) {
         venta += "-$" + std::to_string(v.ganancia * -1);
     else
         venta += "$" + std::to_string(v.ganancia);
-                        
   return strm << venta;
 }
 
 
 
-/*
+/**
  * Clase SistemaCV.
- *
  */
 class SistemaCV {
 public:
@@ -163,14 +161,15 @@ SistemaCV::SistemaCV() {
 
 Compra SistemaCV::comprar(int tid, int cantidad, int costo) {
     // implementar
-    return Compra;
+    return new Compra(0,0,0);
 }
 
 
 
 Cola<Venta> SistemaCV::vender(int tid, int cantidad, int costo) {
+    Cola<Venta> gana;
     // implementar
-    return Cola<Venta>;
+    return gana;
 }
     
 
@@ -210,4 +209,4 @@ std::ostream& operator<<(std::ostream &strm, const SistemaCV &s) {
 }
 
 
-#endif
+#endif // SISTEMA_H
